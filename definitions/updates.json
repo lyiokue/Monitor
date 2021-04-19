@@ -1,0 +1,18 @@
+{
+  "updates": {
+    "linux": {
+      "open-url": "",
+      "latest-version": "1.9.6",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "匹配主控2.1版本",
+      "mandatory": true
+    },
+   "linux": {
+      "open-url": "",
+      "latest-version": "2.2.1",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "匹配主控2.2 alpha2版本",
+      "mandatory": true
+    },
+  }
+}
