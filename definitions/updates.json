@@ -1,18 +1,22 @@
 {
   "updates": {
-    "linux": {
+    "Monitor1": {
       "open-url": "",
-      "latest-version": "1.9.6",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "version": "1.9.6",
+      "download-url": "https://github.com/lyiokue/Monitor/raw/main/download/2_1_Monitor_v1_9_6",
       "changelog": "匹配主控2.1版本",
-      "mandatory": true
     },
-   "linux": {
+   "Monitor2": {
       "open-url": "",
-      "latest-version": "2.2.1",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "匹配主控2.2 alpha2版本",
-      "mandatory": true
+      "version": "2.2.1",
+      "download-url": "https://github.com/lyiokue/Monitor/raw/main/download/Monitor_v2_2_1",
+      "changelog": "匹配主控2.2版本",
     },
+   "Monitor3": {
+      "open-url": "",
+      "version": "2.2.1_ubuntu20.04",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "匹配主控2.2版本",
+    },    
   }
 }
