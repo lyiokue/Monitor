@@ -1,22 +1,22 @@
 {
   "updates": {
     "Monitor1": {
-      "open-url": "",
-      "version": "1.9.6",
-      "download-url": "https://github.com/lyiokue/Monitor/raw/main/download/2_1_Monitor_v1_9_6",
+      "monitor-version": "1.9.6",
+      "ccu-version": "2.1",
+      "download-url": "https://raw.githubusercontent.com/lyiokue/Monitor/main/download/2_1_Monitor_v1_9_6.tar.xz",
       "changelog": "匹配主控2.1版本",
     },
    "Monitor2": {
-      "open-url": "",
       "version": "2.2.1",
-      "download-url": "https://github.com/lyiokue/Monitor/raw/main/download/Monitor_v2_2_1",
-      "changelog": "匹配主控2.2版本",
+      "ccu-version": "2.2 alpha2",
+      "download-url": "https://raw.githubusercontent.com/lyiokue/Monitor/main/download/Monitor_v2_2_1.tar.xz",
+      "changelog": "ubuntu系统1604/1804",
     },
    "Monitor3": {
-      "open-url": "",
       "version": "2.2.1_ubuntu20.04",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "匹配主控2.2版本",
+      "ccu-version": "2.2 alpha2",
+      "download-url": "https://raw.githubusercontent.com/lyiokue/Monitor/main/download/Monitor_v2_2_1_ubuntu20.tar.xz",
+      "changelog": "ubuntu系统2004，之后更新版本均只适配2004",
     },    
   }
 }
